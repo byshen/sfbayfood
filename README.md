@@ -1,37 +1,53 @@
 # SF Bay Area Food
 
 
+- [SF Bay Area Food](#sf-bay-area-food)
+  * [中餐 Chinese food](#chinese-food)
+    + [北方菜 | Northen China Cusines](#northen-china-cusines)
+    + [川菜 | Sichuan Cusines](#sichuan-cusines)
+    + [湘菜 | Hunan Cusines](#hunan-cusines)
+    + [上海菜 | Shanghai Cusines](#shanghai-cusines)
+    + [粤菜 | Cantonese Cusines](#cantonese-cusines)
+    + [火锅 | Hotpot](#hotpot)
+    + [撸串/烧烤 | Skewed BBQ](#skewed-bbq)
+    + [奶茶甜品 | Boba Tea](#boba-tea)
+  * [日料 | Japanese food](#japanese-food)
+  * [墨西哥菜| Mexico](#mexico)
+  * [韩餐 | Korean food](#korean-food)
+  * [其他 | Potpourri](#potpourri)
+  * [超市 Markets](#supermarket)
+  * [Contribute](#contribute)
+  * [Acknowledgement](#acknowledgement)
+  * [Licence](#licence)
+
 
 ## 标准
-
-
-
 Ratings (个人的口味标准)
 
-## 中餐 | Chinese food
+## Chinese food
 
-### 北方菜 | Northen China Cusines
-
-| 店名        |  地点 | 价格           | 评分  | 备注 |
-| ------------- |:-------------:| :-------------:| :-----:| -----|
-| | | | | |
-
-
-### 川菜 | Sichuan Cusines 
+### Northen China Cusines
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
 | | | | | |
 
 
-### 湘菜 | Hunan Cusines 
+### Sichuan Cusines 
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
 | | | | | |
 
 
-### 上海菜 | Shanghai Cusines 
+### Hunan Cusines 
+
+| 店名        |  地点 | 价格           | 评分  | 备注 |
+| ------------- |:-------------:| :-------------:| :-----:| -----|
+| | | | | |
+
+
+### Shanghai Cusines 
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
@@ -40,14 +56,14 @@ Ratings (个人的口味标准)
 
 
 
-### 粤菜 | Cantonese Cusines 
+### Cantonese Cusines 
 
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
 | | | | | |
 
-### 火锅 | Hotpot
+### Hotpot
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------: |:-------------:| :-----:| -----|
@@ -56,33 +72,33 @@ Ratings (个人的口味标准)
 
 
 
-### 撸串/烧烤 | Skewed BBQ
+### Skewed BBQ
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
 | [Zest Food Inc (兆豐烤涮吧)](https://goo.gl/maps/85Cw2zahuXitzWhG9) | Cuppertino | $$ | 2.8 | 一般，点了个烤羊腰很骚 |
 
 
-### 奶茶甜品 | Boba Tea
+### Boba Tea
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
 | | | | | |
 
-## 日料 | Japanese food
+## Japanese food
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
 | | | | | |
 
-## 墨西哥菜| Mexico
+## Mexico
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
 | | | | | |
 
 
-## 韩餐 | Korean food
+## Korean food
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
@@ -94,7 +110,7 @@ Ratings (个人的口味标准)
 | ------------- |:-------------:| :-------------:| :-----:| -----|
 | | | | | |
 
-## 超市 
+## Supermarket 
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
