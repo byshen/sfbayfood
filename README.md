@@ -76,7 +76,7 @@ Ratings (个人的口味标准)
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
-| [Zest Food Inc (兆豐烤涮吧)](https://goo.gl/maps/85Cw2zahuXitzWhG9) | Cuppertino | $$ | 2.8 | 一般，点了个烤羊腰很骚 |
+| [Zest Food Inc (兆豐烤涮吧)](https://goo.gl/maps/85Cw2zahuXitzWhG9) | Cuppertino | $$ | 1.8 | 一般，点了个烤羊腰很骚 |
 
 
 ### Boba Tea
