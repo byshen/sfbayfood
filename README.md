@@ -83,7 +83,7 @@ Ratings (个人的口味标准)
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
-| | | | | |
+| [Yifang fruit tea](https://goo.gl/maps/YgZeAWpkoJG5hvZj8)  | Redwood/MTV| $ | 4.0 | |
 
 ## Japanese food
 
@@ -108,7 +108,7 @@ Ratings (个人的口味标准)
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
-| | | | | |
+| [Killiney Kopitiam](https://g.page/killiney-kopitiam-palo-alto?share) | Palo Alto | $ |3.9 | 肉骨茶，海南鸡,Laksa noddle, 吃午饭|
 
 ## Supermarket 
 
