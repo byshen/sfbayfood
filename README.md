@@ -51,7 +51,7 @@ Ratings (个人的口味标准)
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
-| | | | | |
+| [阿拉上海 I Shanghai Delight](https://goo.gl/maps/nJwwqiPnY1GgRKS9A)| Fremont| $ | 4.0 | 鲜肉小笼，白斩鸡，生煎|
 
 
 
@@ -67,7 +67,7 @@ Ratings (个人的口味标准)
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------: |:-------------:| :-----:| -----|
-| [快乐小羊 Happy Lamb Hot Pot](https://goo.gl/maps/ByBdxYjAuKGLt3oL6)  | San Mateo| $$ | 4.3 | 性价比还挺好 |
+| [快乐小羊 Happy Lamb Hot Pot](https://goo.gl/maps/ByBdxYjAuKGLt3oL6)  | San Mateo| $$ | 4.05 | 性价比还挺好 |
 
 
 
