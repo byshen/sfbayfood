@@ -8,6 +8,7 @@
     + [湘菜 Hunan Cusines](#hunan-cusines)
     + [上海菜 Shanghai Cusines](#shanghai-cusines)
     + [粤菜 Cantonese Cusines](#cantonese-cusines)
+    + [其他菜 Misc Cusines](#misc-cusines)
     + [火锅 Hotpot](#hotpot)
     + [撸串/烧烤 Skewed BBQ](#skewed-bbq)
     + [奶茶甜品 Boba Tea](#boba-tea)
@@ -63,6 +64,16 @@ Ratings (个人的口味标准)
 | ------------- |:-------------:| :-------------:| :-----:| -----|
 | | | | | |
 
+
+
+
+### Misc Cusines 
+
+| 店名        |  地点 | 价格           | 评分  | 备注 |
+| ------------- |:-------------:| :-------------:| :-----:| -----|
+| [小刘清粥 Taiwan Porridge](https://goo.gl/maps/WDmRPEEJsZkJXKsf9) | Cupertino/Fremont | $ | 4.05 | 油焖笋可以，很实惠了|
+
+
 ### Hotpot
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
@@ -108,7 +119,7 @@ Ratings (个人的口味标准)
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
-| [Killiney Kopitiam](https://g.page/killiney-kopitiam-palo-alto?share) | Palo Alto | $ |3.9 | 肉骨茶，海南鸡,Laksa noddle|
+| [Killiney Kopitiam](https://g.page/killiney-kopitiam-palo-alto?share) | Palo Alto | $ |3.9 | 新加坡快餐，肉骨茶，海南鸡,Laksa noddle|
 
 ## Supermarket 
 
