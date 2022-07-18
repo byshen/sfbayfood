@@ -4,8 +4,7 @@
 - [SF Bay Area Food](#sf-bay-area-food)
   * [中餐 Chinese food](#chinese-food)
     + [北方菜 Northen China Cusines](#northen-china-cusines)
-    + [川菜 Sichuan Cusines](#sichuan-cusines)
-    + [湘菜 Hunan Cusines](#hunan-cusines)
+    + [川菜湘菜 Sichuan/Hunan Cusines](#sichuan-hunan-cusines)
     + [上海菜 Shanghai Cusines](#shanghai-cusines)
     + [粤菜 Cantonese Cusines](#cantonese-cusines)
     + [其他菜 Misc Cusines](#misc-cusines)
@@ -31,21 +30,15 @@ Ratings (个人的口味标准)
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
-| | | | | |
+| [京都食府 Boiling Beijing](https://goo.gl/maps/CgJKnVezWyAgGd4ZA)| San Bruno | $$| 4.1 | 烤鸭/羊蝎子火锅/炒合菜/麻辣百叶/玉米烙，味道都还可以|
 
 
-### Sichuan Cusines 
-
-| 店名        |  地点 | 价格           | 评分  | 备注 |
-| ------------- |:-------------:| :-------------:| :-----:| -----|
-| | | | | |
-
-
-### Hunan Cusines 
+### Sichuan-Hunan Cusines 
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
 | | | | | |
+
 
 
 ### Shanghai Cusines 
