@@ -37,6 +37,8 @@ Ratings (个人的口味标准)
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
+| [嗨锅 Hi pot](https://goo.gl/maps/9tZwsgukgxChWk459) | Cupertino  | | | 麻辣香锅 |
+| [倍儿爽麻辣香锅 Bel Cool Tasty Pot](https://goo.gl/maps/BdwLbFSMm2MHSmW18) | Cupertino | | |麻辣香锅  |
 | | | | | |
 
 
