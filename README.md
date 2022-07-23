@@ -121,7 +121,7 @@ Ratings (个人的口味标准)
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
-| | | | | |
+| [Kemuri Japanese Baru](https://goo.gl/maps/wU8MFASzm8zkQ8vL8) | Redwood | | | |
 
 ## Mexico
 
@@ -135,7 +135,13 @@ Ratings (个人的口味标准)
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
 |[Kunjip](https://goo.gl/maps/U8cbThuRvijGhxES9) | Santa Clara | | | |
+|[Moo Bong Ri Korean Restaurant](https://goo.gl/maps/W6wFQXJ6ARLkmhSR8) | Santa Clara | | | |
+|[Jang Su Jang](https://goo.gl/maps/ninp9kGZfyg42YM58) | Santa Clara | | | |
 | | | | | |
+| | | | | |
+| | | | | |
+
+
 
 ## Potpourri
 
