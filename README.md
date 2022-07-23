@@ -31,6 +31,8 @@ Ratings (个人的口味标准)
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
 | [京都食府 Boiling Beijing](https://goo.gl/maps/CgJKnVezWyAgGd4ZA)| San Bruno | $$| 4.1 | 烤鸭/羊蝎子火锅/炒合菜/麻辣百叶/玉米烙，味道都还可以|
+| [新五饼二鱼 Nutrition House](https://goo.gl/maps/FEknmeoLacAUET5o9) | Milpitas | | | |
+| | | | | |
 
 
 ### Sichuan-Hunan Cusines 
@@ -45,8 +47,12 @@ Ratings (个人的口味标准)
 | [韶山印象 Hunan Impression](https://goo.gl/maps/DzcKkH1LjWRbRVmR9)| West San Jose | | | |
 | [福牛堂 Fu Niu Tang Noodle Talk](https://g.page/funiutang?share)| MTV/Sunnyvale| | | |
 | [湖南小馆 Henry's Hunan](https://goo.gl/maps/VYLxKJFLJZQrug8A6) | SF | | | |
+| [扬裕兴 Yum Noodles](https://goo.gl/maps/idbyEhnWKhDKr3Nv8)| Santa Clara | | | |
+| [Fashion Wok](https://goo.gl/maps/ucqH1ZaF9PDssXU79) | Sunnyvale| | | |
+| [辣道 Spicy Way](https://goo.gl/maps/UmYHgdNfULyG1STU6)| Milpitas | | | |
 | | | | | |
 | | | | | |
+
 
 
 
@@ -55,6 +61,10 @@ Ratings (个人的口味标准)
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
 | [阿拉上海 I Shanghai Delight](https://goo.gl/maps/nJwwqiPnY1GgRKS9A)| Fremont| $ | 4.0 | 鲜肉小笼，白斩鸡，生煎|
+| [老弄堂 old town shanghai](https://goo.gl/maps/DNcmfmGGE8UdNeYv5) | Sunnyvale | | | |
+| | | | | |
+| | | | | |
+
 
 
 
