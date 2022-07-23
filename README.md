@@ -10,7 +10,7 @@
     + [其他菜 Misc Cusines](#misc-cusines)
     + [火锅 Hotpot](#hotpot)
     + [撸串/烧烤 Skewed BBQ](#skewed-bbq)
-    + [奶茶甜品 Boba Tea](#boba-tea)
+    + [奶茶甜品 Boba Tea/Desserts](#desserts)
   * [日料 Japanese food](#japanese-food)
   * [墨西哥菜 Mexico](#mexico)
   * [韩餐 Korean food](#korean-food)
@@ -39,7 +39,10 @@ Ratings (个人的口味标准)
 | ------------- |:-------------:| :-------------:| :-----:| -----|
 | [嗨锅 Hi pot](https://goo.gl/maps/9tZwsgukgxChWk459) | Cupertino  | | | 麻辣香锅 |
 | [倍儿爽麻辣香锅 Bel Cool Tasty Pot](https://goo.gl/maps/BdwLbFSMm2MHSmW18) | Cupertino | | |麻辣香锅  |
-| | | | | |
+| [重庆江湖菜 Newark Cafe](https://goo.gl/maps/X6HvdZddJvQBPuHp6)| Newark | | | |
+| [留湘 Ping's Bistro](https://goo.gl/maps/4VnK3AsbzNHMrJrB7)| Fremont/ | | | |
+| [香小馆 Shang Cafe](https://goo.gl/maps/EDAa6pQAcgNQDiiK6)| Fremont/San Jose | | | |
+| [韶山印象 Hunan Impression](https://goo.gl/maps/DzcKkH1LjWRbRVmR9)| West San Jose | | | |
 
 
 
@@ -85,11 +88,13 @@ Ratings (个人的口味标准)
 | [Zest Food Inc (兆豐烤涮吧)](https://goo.gl/maps/85Cw2zahuXitzWhG9) | Cuppertino | $$ | 1.8 | 一般，点了个烤羊腰很骚 |
 
 
-### Boba Tea
+### Desserts
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
 | [Yifang fruit tea](https://goo.gl/maps/YgZeAWpkoJG5hvZj8)  | Redwood/MTV| $ | 4.0 | |
+| [Mary's Bakery](https://goo.gl/maps/rxfgHxtDnt2QMVjL8)  | Fremont|  |  | |
+| [Pineapple King Bakery](https://g.page/pineapplekingbakery?share)  | San Francisco|  |  | |
 
 ## Japanese food
 
