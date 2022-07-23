@@ -43,6 +43,8 @@ Ratings (个人的口味标准)
 | [留湘 Ping's Bistro](https://goo.gl/maps/4VnK3AsbzNHMrJrB7)| Fremont/ | | | |
 | [香小馆 Shang Cafe](https://goo.gl/maps/EDAa6pQAcgNQDiiK6)| Fremont/San Jose | | | |
 | [韶山印象 Hunan Impression](https://goo.gl/maps/DzcKkH1LjWRbRVmR9)| West San Jose | | | |
+| [福牛堂 Fu Niu Tang Noodle Talk](https://g.page/funiutang?share)| MTV/Sunnyvale| | | |
+
 
 
 
@@ -85,7 +87,10 @@ Ratings (个人的口味标准)
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
-| [Zest Food Inc (兆豐烤涮吧)](https://goo.gl/maps/85Cw2zahuXitzWhG9) | Cuppertino | $$ | 1.8 | 一般，点了个烤羊腰很骚 |
+| [兆豐烤涮吧 Zest Food Inc](https://goo.gl/maps/85Cw2zahuXitzWhG9) | Cuppertino | $$ | 1.8 | 一般，点了个烤羊腰很骚 |
+| [杨师傅烧烤 BBQ Chef Yang](https://goo.gl/maps/MUgNqQ79Eyc885AXA) | Cuppertino | $$ |  |  |
+| [串门儿烧烤 H&E BBQ](https://goo.gl/maps/BsCnSaVMj726BH129) | Milpitas| | | |
+
 
 
 ### Desserts
@@ -95,6 +100,10 @@ Ratings (个人的口味标准)
 | [Yifang fruit tea](https://goo.gl/maps/YgZeAWpkoJG5hvZj8)  | Redwood/MTV| $ | 4.0 | |
 | [Mary's Bakery](https://goo.gl/maps/rxfgHxtDnt2QMVjL8)  | Fremont|  |  | |
 | [Pineapple King Bakery](https://g.page/pineapplekingbakery?share)  | San Francisco|  |  | |
+| [MandRo Teahouse](https://goo.gl/maps/Rhbyqv2eGxU3q7WT8)| Milpitas | | | 绵绵冰|
+
+
+
 
 ## Japanese food
 
