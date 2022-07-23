@@ -122,6 +122,7 @@ Ratings (个人的口味标准)
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
+|[Kunjip](https://goo.gl/maps/U8cbThuRvijGhxES9) | Santa Clara | | | |
 | | | | | |
 
 ## Potpourri
