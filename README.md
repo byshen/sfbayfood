@@ -44,7 +44,7 @@ Ratings (个人的口味标准)
 | [重庆江湖菜 Newark Cafe](https://goo.gl/maps/X6HvdZddJvQBPuHp6)| Newark | | | |
 | [留湘 Ping's Bistro](https://goo.gl/maps/4VnK3AsbzNHMrJrB7)| Fremont/ | | | |
 | [香小馆 Shang Cafe](https://goo.gl/maps/EDAa6pQAcgNQDiiK6)| Fremont/San Jose | | | |
-| [韶山印象 Hunan Impression](https://goo.gl/maps/DzcKkH1LjWRbRVmR9)| West San Jose | | | |
+| [韶山印象 Hunan Impression](https://goo.gl/maps/DzcKkH1LjWRbRVmR9)| West San Jose | $$ | | 分量变小了，小炒黄牛肉不错|
 | [福牛堂 Fu Niu Tang Noodle Talk](https://g.page/funiutang?share)| MTV/Sunnyvale| | | |
 | [湖南小馆 Henry's Hunan](https://goo.gl/maps/VYLxKJFLJZQrug8A6) | SF | | | |
 | [扬裕兴 Yum Noodles](https://goo.gl/maps/idbyEhnWKhDKr3Nv8)| Santa Clara | | | |
