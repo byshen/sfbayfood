@@ -113,7 +113,8 @@ Ratings (个人的口味标准)
 | [Mary's Bakery](https://goo.gl/maps/rxfgHxtDnt2QMVjL8)  | Fremont|  |  | |
 | [Pineapple King Bakery](https://g.page/pineapplekingbakery?share)  | San Francisco|  |  | |
 | [MandRo Teahouse](https://goo.gl/maps/Rhbyqv2eGxU3q7WT8)| Milpitas | | | 绵绵冰|
-
+| [Tong Sui ](https://goo.gl/maps/KmdHsFjhEwRXqGMFA)| Redwood/Sunnyvale | | | 贵但好喝z|
+| | | | | |
 
 
 
