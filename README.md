@@ -42,7 +42,7 @@ Ratings (个人的口味标准)
 | [嗨锅 Hi pot](https://goo.gl/maps/9tZwsgukgxChWk459) | Cupertino  | | | 麻辣香锅 |
 | [倍儿爽麻辣香锅 Bel Cool Tasty Pot](https://goo.gl/maps/BdwLbFSMm2MHSmW18) | Cupertino | | |麻辣香锅  |
 | [重庆江湖菜 Newark Cafe](https://goo.gl/maps/X6HvdZddJvQBPuHp6)| Newark | | | |
-| [留湘 Ping's Bistro](https://goo.gl/maps/4VnK3AsbzNHMrJrB7)| Fremont/ | | | |
+| [留湘 Ping's Bistro](https://goo.gl/maps/4VnK3AsbzNHMrJrB7)| Fremont/San Mateo | | | 烤鱼，炒香锅|
 | [香小馆 Shang Cafe](https://goo.gl/maps/EDAa6pQAcgNQDiiK6)| Fremont/San Jose | | | |
 | [韶山印象 Hunan Impression](https://goo.gl/maps/DzcKkH1LjWRbRVmR9)| West San Jose | $$ | | 分量变小了，小炒黄牛肉不错|
 | [福牛堂 Fu Niu Tang Noodle Talk](https://g.page/funiutang?share)| MTV/Sunnyvale| | | |
