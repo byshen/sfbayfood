@@ -84,6 +84,11 @@ Ratings (个人的口味标准)
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
 | [小刘清粥 Taiwan Porridge](https://goo.gl/maps/WDmRPEEJsZkJXKsf9) | Cupertino/Fremont | $ | 4.05 | 油焖笋可以，很实惠了|
+| [锦鲤缘 Embrace Luck](https://goo.gl/maps/SAyiUtuPy7dDiY9S9) | MTV | | | |
+
+
+
+
 
 
 ### Hotpot
