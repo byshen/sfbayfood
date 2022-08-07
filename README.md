@@ -84,8 +84,8 @@ Ratings (个人的口味标准)
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
 | [小刘清粥 Taiwan Porridge](https://goo.gl/maps/WDmRPEEJsZkJXKsf9) | Cupertino/Fremont | $ | 4.05 | 油焖笋可以，很实惠了|
-| [锦鲤缘 Embrace Luck](https://goo.gl/maps/SAyiUtuPy7dDiY9S9) | MTV | | | |
-
+| [锦鲤缘 Embrace Luck](https://goo.gl/maps/SAyiUtuPy7dDiY9S9) | MTV | | | 酸菜鱼，油爆鳝，腌笃鲜，味道可以，菜价相对于分量太贵，喝汤喝饱了|
+| [文哥鸡汤米线 Noodles & Things](https://g.page/noodlessm?share) | San Mateo| | | 吃个便饭还可以，鸡汤味道并不浓 |
 
 
 
