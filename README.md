@@ -97,7 +97,7 @@ Ratings (个人的口味标准)
 | ------------- |:-------------: |:-------------:| :-----:| -----|
 | [快乐小羊 Happy Lamb Hot Pot](https://goo.gl/maps/ByBdxYjAuKGLt3oL6)  | San Mateo| $$ | 4.05 | 性价比还挺好 |
 | [龙门湾火锅 LongMen Bay Hotpot](https://goo.gl/maps/yTB9qCngK9SvucX47) | Fremont | | | |
-| [巴九门 3 Kingdoms Hot Pot](https://g.page/3kingdomsofficial?share) | | | | |
+| [巴九门 3 Kingdoms Hot Pot](https://g.page/3kingdomsofficial?share) | MTV | | | |
 | [Sea Pot](https://goo.gl/maps/Y7L5HgZU4ocUr1FT8) | San Mateo| | | 自助火锅，食材很差 |
 | | | | | |
 | | | | | |
