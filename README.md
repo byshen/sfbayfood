@@ -50,7 +50,7 @@ Ratings (个人的口味标准)
 | [扬裕兴 Yum Noodles](https://goo.gl/maps/idbyEhnWKhDKr3Nv8)| Santa Clara | | | |
 | [Fashion Wok](https://goo.gl/maps/ucqH1ZaF9PDssXU79) | Sunnyvale| | | |
 | [辣道 Spicy Way](https://goo.gl/maps/UmYHgdNfULyG1STU6)| Milpitas | | | |
-| | | | | |
+| [夹捡成厨 Customize MaLaTang](https://goo.gl/maps/yVnTo7zav24QNLgg7)| Newark | | |麻辣烫，食材不入味；香锅稍微好一点 ，总体很一般；小哥服务态度好|
 | | | | | |
 
 
@@ -96,7 +96,11 @@ Ratings (个人的口味标准)
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------: |:-------------:| :-----:| -----|
 | [快乐小羊 Happy Lamb Hot Pot](https://goo.gl/maps/ByBdxYjAuKGLt3oL6)  | San Mateo| $$ | 4.05 | 性价比还挺好 |
-
+| [龙门湾火锅 LongMen Bay Hotpot](https://goo.gl/maps/yTB9qCngK9SvucX47) | Fremont | | | |
+| [巴九门 3 Kingdoms Hot Pot](https://g.page/3kingdomsofficial?share) | | | | |
+| [Sea Pot](https://goo.gl/maps/Y7L5HgZU4ocUr1FT8) | San Mateo| | | 自助火锅，食材很差 |
+| | | | | |
+| | | | | |
 
 
 
@@ -107,6 +111,7 @@ Ratings (个人的口味标准)
 | [兆豐烤涮吧 Zest Food Inc](https://goo.gl/maps/85Cw2zahuXitzWhG9) | Cuppertino | $$ | 1.8 | 一般，点了个烤羊腰很骚 |
 | [杨师傅烧烤 BBQ Chef Yang](https://goo.gl/maps/MUgNqQ79Eyc885AXA) | Cuppertino | $$ |  |  |
 | [串门儿烧烤 H&E BBQ](https://goo.gl/maps/BsCnSaVMj726BH129) | Milpitas| | | |
+| [Ace king BBQ](https://goo.gl/maps/SQUw1jaiZ8G5AG2u7) | Newark| | | |
 
 
 
