@@ -86,10 +86,10 @@ Ratings (个人的口味标准)
 | ------------- |:-------------:| :-------------:| :-----:| -----|
 | [小刘清粥 Taiwan Porridge](https://goo.gl/maps/WDmRPEEJsZkJXKsf9) | Cupertino/Fremont | $ | 4.05 | 油焖笋可以，很实惠了|
 | [锦鲤缘 Embrace Luck](https://goo.gl/maps/SAyiUtuPy7dDiY9S9) | MTV | | | 酸菜鱼，油爆鳝，腌笃鲜，味道可以，菜价相对于分量太贵，喝汤喝饱了|
-| [文哥鸡汤米线 Noodles & Things](https://g.page/noodlessm?share) | San Mateo| | | 吃个便饭还可以，鸡汤味道并不浓 |
+| [文哥鸡汤米线 Noodles & Things](https://g.page/noodlessm?share) | San Mateo| | | 吃个便饭还可以，鸡汤味道并不浓，量挺大 |
 | [Redwood Bistro](https://goo.gl/maps/nxKeTKu1qbzvJozD8)| Redwood| $ | 1.0 |  非常难吃，panda express都不如|
+| [小香牛骨米粉 Hunan Mifen ](https://goo.gl/maps/d7tF8virx9EBhsG19)| Sunnyvale| $ |  |  汤很一般，粉也一般，浇头味道可以但很辣|
 
-Hunan Mifen 小香牛骨米粉
 
 
 
