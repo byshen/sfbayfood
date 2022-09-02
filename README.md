@@ -89,6 +89,8 @@ Ratings (个人的口味标准)
 | [文哥鸡汤米线 Noodles & Things](https://g.page/noodlessm?share) | San Mateo| | | 吃个便饭还可以，鸡汤味道并不浓 |
 | [Redwood Bistro](https://goo.gl/maps/nxKeTKu1qbzvJozD8)| Redwood| $ | 1.0 |  非常难吃，panda express都不如|
 
+Hunan Mifen 小香牛骨米粉
+
 
 
 
@@ -149,7 +151,7 @@ Ratings (个人的口味标准)
 
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
-|[Kunjip](https://goo.gl/maps/U8cbThuRvijGhxES9) | Santa Clara | | | |
+|[Kunjip](https://goo.gl/maps/U8cbThuRvijGhxES9) | Santa Clara | | | 点了1和3的汤，还挺好喝；炖牛肉$75一份太贵了|
 |[Moo Bong Ri Korean Restaurant](https://goo.gl/maps/W6wFQXJ6ARLkmhSR8) | Santa Clara | | | |
 |[Jang Su Jang](https://goo.gl/maps/ninp9kGZfyg42YM58) | Santa Clara | | | |
 | | | | | |
