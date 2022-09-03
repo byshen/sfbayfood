@@ -127,7 +127,7 @@ Ratings (个人的口味标准)
 | [Pineapple King Bakery](https://g.page/pineapplekingbakery?share)  | San Francisco|  |  | |
 | [MandRo Teahouse](https://goo.gl/maps/Rhbyqv2eGxU3q7WT8)| Milpitas | | | 绵绵冰|
 | [Tong Sui ](https://goo.gl/maps/KmdHsFjhEwRXqGMFA)| Redwood/Sunnyvale | | | 贵但好喝z|
-| [Ume Tea](https://g.page/umetea?share) | Cupertino| | | |
+| [Ume Tea](https://g.page/umetea?share) | Cupertino/MTV/Fremont | | | |
 | [Chun Yang Tea](https://goo.gl/maps/1Ciub8Nk8jk5eLyd9)| Sunnyvale | | | 茶味浓 |
 | [Sweet Moment](https://g.page/sweetmoment-sanmateo?share)| San Mateo | | | 差评，和tapioca一个味道 |
 | | | | | |
