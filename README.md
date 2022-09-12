@@ -32,6 +32,7 @@ Ratings (个人的口味标准)
 | ------------- |:-------------:| :-------------:| :-----:| -----|
 | [京都食府 Boiling Beijing](https://goo.gl/maps/CgJKnVezWyAgGd4ZA)| San Bruno | $$| 4.1 | 烤鸭/羊蝎子火锅/炒合菜/麻辣百叶/玉米烙，味道都还可以|
 | [新五饼二鱼 Nutrition House](https://goo.gl/maps/FEknmeoLacAUET5o9) | Milpitas | | | |
+| [回味宁夏 Northwest China Cuisine](https://goo.gl/maps/HovA9T4JTpRXVVzZ8) | Fremont | | | 田鸡好吃，羊排有点肥还行，炒面和炒饭都还可以，凉皮油太多了|
 | | | | | |
 
 
