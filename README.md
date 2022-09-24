@@ -76,7 +76,7 @@ Ratings (个人的口味标准)
 | 店名        |  地点 | 价格           | 评分  | 备注 |
 | ------------- |:-------------:| :-------------:| :-----:| -----|
 | [西贡渔港 Saigon Seafood Harbor](https://goo.gl/maps/sJz9M3ZZ2kGohwi66) | Sunnyvale | | | 比较传统的粤菜，榴莲酥很好，凤爪ok，肠粉/虾饺/皮蛋粥都很一般 |
-| | | | | |
+| [凤凰名粥 Ming Tasty](https://goo.gl/maps/x24czKHHZ6TLqif18)| Sunnyvale | | | 老式粤菜馆，类似三和 |
 | | | | | |
 
 
@@ -115,7 +115,7 @@ Ratings (个人的口味标准)
 | [兆豐烤涮吧 Zest Food Inc](https://goo.gl/maps/85Cw2zahuXitzWhG9) | Cuppertino | $$ | 1.8 | 一般，点了个烤羊腰很骚 |
 | [杨师傅烧烤 BBQ Chef Yang](https://goo.gl/maps/MUgNqQ79Eyc885AXA) | Cuppertino | $$ |  |  |
 | [串门儿烧烤 H&E BBQ](https://goo.gl/maps/BsCnSaVMj726BH129) | Milpitas| | | |
-| [Ace king BBQ](https://goo.gl/maps/SQUw1jaiZ8G5AG2u7) | Newark| | | |
+| [Ace king BBQ](https://goo.gl/maps/SQUw1jaiZ8G5AG2u7) | Newark| $$ | | 烤牛筋，猪蹄好吃，羊肉串一般 |
 
 
 
