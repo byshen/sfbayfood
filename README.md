@@ -184,8 +184,6 @@ Ratings (个人的口味标准)
 
 
 [@xy](https://github.com/xiaoyexy)
-[@evonx](https://github.com/evonx)
-[@vector](https://github.com/Vectorlee)
 
 ## Licence
 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
